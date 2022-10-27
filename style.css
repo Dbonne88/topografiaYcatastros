@@ -1,0 +1,13 @@
+h1{ color: red;
+
+} 
+
+img.logo_1 {
+    width: 300px;
+    margin-left: 50px;
+}
+
+img.logo_2 {
+    width: 500px;
+    margin-left: 100px;
+}
